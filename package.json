@@ -1,0 +1,25 @@
+{
+  "name": "be-isthisauditlogging-andreglock",
+  "version": "1.0.0",
+  "description": "- I want you to create an express server. - This server should have two GET endpoints and two POST endpoints.  - When we get a request to *any* endpoint, make a note of that into your database (lowdb).",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-E01/be-isthisauditlogging-andreglock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-E01/be-isthisauditlogging-andreglock/issues"
+  },
+  "homepage": "https://github.com/FbW-E01/be-isthisauditlogging-andreglock#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lowdb": "^2.1.0"
+  }
+}
